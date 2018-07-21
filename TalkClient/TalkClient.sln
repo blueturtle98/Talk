@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalkClient", "TalkClient\TalkClient.csproj", "{B1B847CE-40B9-4724-B133-A1FD827B392E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{DB6227EC-5BDD-4F4C-A171-B1C94C8B2A49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalkServer", "TalkServer\TalkServer.csproj", "{205F81B7-73C3-4972-A787-195A5D9B56F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{B1B847CE-40B9-4724-B133-A1FD827B392E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1B847CE-40B9-4724-B133-A1FD827B392E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1B847CE-40B9-4724-B133-A1FD827B392E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DB6227EC-5BDD-4F4C-A171-B1C94C8B2A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DB6227EC-5BDD-4F4C-A171-B1C94C8B2A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DB6227EC-5BDD-4F4C-A171-B1C94C8B2A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DB6227EC-5BDD-4F4C-A171-B1C94C8B2A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{205F81B7-73C3-4972-A787-195A5D9B56F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205F81B7-73C3-4972-A787-195A5D9B56F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205F81B7-73C3-4972-A787-195A5D9B56F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205F81B7-73C3-4972-A787-195A5D9B56F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

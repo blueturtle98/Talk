@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkClient\bin\Debug\TalkClient.exe.config
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkClient\bin\Debug\TalkClient.exe
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkClient\bin\Debug\TalkClient.pdb
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkClient\obj\Debug\TalkClient.csprojAssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkClient\obj\Debug\MainWindow.g.cs
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkClient\obj\Debug\App.g.cs
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkClient\obj\Debug\TalkClient_MarkupCompile.cache
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkClient\obj\Debug\TalkClient_MarkupCompile.lref
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkClient\obj\Debug\MainWindow.baml
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkClient\obj\Debug\TalkClient.g.resources
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkClient\obj\Debug\TalkClient.Properties.Resources.resources
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkClient\obj\Debug\TalkClient.csproj.GenerateResource.cache
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkClient\obj\Debug\TalkClient.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkClient\obj\Debug\TalkClient.exe
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkClient\obj\Debug\TalkClient.pdb
