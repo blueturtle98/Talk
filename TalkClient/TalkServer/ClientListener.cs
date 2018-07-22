@@ -75,5 +75,18 @@ namespace TalkServer
             Listening = false;
             Stopped(this, ListenPort);
         }
+
+        public void Stop()
+        {
+            try
+            {
+                StopListening = true;
+                TcpL.Stop();
+                ListenThread.Abort();
+            }catch(Exception e)
+            {
+
+            }
+        }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkLib\bin\Debug\TalkLib.dll
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkLib\bin\Debug\TalkLib.pdb
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkLib\obj\Debug\TalkLib.csprojAssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkLib\obj\Debug\TalkLib.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkLib\obj\Debug\TalkLib.dll
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkLib\obj\Debug\TalkLib.pdb

@@ -7,13 +7,15 @@
         mc:Ignorable="d"
         Title="Talk Server" Height="450" Width="800">
     <Grid>
-        <RichTextBox Name="ConsoleTextbox" HorizontalAlignment="Left" Height="318" Margin="0,101,0,0" VerticalAlignment="Top" Width="792">
+        <RichTextBox Name="ConsoleTextbox" HorizontalAlignment="Left" Height="399" Margin="317,10,0,0" VerticalAlignment="Top" Width="465">
             <FlowDocument>
                 <Paragraph>
                     <Run Text="RichTextBox"/>
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>
+        <ListBox Name="ClientListBox" HorizontalAlignment="Left" Height="356" Margin="10,53,0,0" VerticalAlignment="Top" Width="302"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
 
     </Grid>
 </Window>

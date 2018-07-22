@@ -13,3 +13,6 @@ C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkServer\obj\Debug\TalkServer.cs
 C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkServer\obj\Debug\TalkServer.csproj.CoreCompileInputs.cache
 C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkServer\obj\Debug\TalkServer.exe
 C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkServer\obj\Debug\TalkServer.pdb
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkServer\bin\Debug\TalkLib.dll
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkServer\bin\Debug\TalkLib.pdb
+C:\Users\Sam\Documents\GitHub\Talk\TalkClient\TalkServer\obj\Debug\TalkServer.csproj.CopyComplete

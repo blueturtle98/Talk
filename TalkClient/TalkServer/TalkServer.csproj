@@ -54,6 +54,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Channel.cs" />
+    <Compile Include="ChannelManager.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="ClientManager.cs" />
     <Compile Include="UnknownClient.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -94,6 +98,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TalkLib\TalkLib.csproj">
+      <Project>{b5fc811f-d898-43d9-a206-f58afbc28daa}</Project>
+      <Name>TalkLib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
